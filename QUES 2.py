@@ -1,0 +1,6 @@
+intro="Hey, {name} Here!".format(name="Tanish")
+line="My SID is {sid}".format(sid="22105044")
+department="I am from {dep} department and my CGPA is 9.9".format(dep="ECE")
+print(intro)
+print(line)
+print(department)
